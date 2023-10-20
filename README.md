@@ -1,6 +1,6 @@
 ### Hi there 👋
 I like OSS.
-I'm still learning, but I want to contribute more OSS.
+I'm still learning, but I want to contribute more OSS in the future.
 
 repositories list I have contributed to
 - [prismix](https://github.com/jamiepine/prismix)
