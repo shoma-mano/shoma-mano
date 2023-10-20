@@ -5,7 +5,7 @@ I'm still learning, but I want to contribute more OSS.
 repositories list I have contributed to
 - [prismix](https://github.com/jamiepine/prismix)
 - [schemastore](https://github.com/SchemaStore/schemastore)
-- [](https://github.com/dotansimha/graphql-code-generator-community)
+- [graphql-code-generator-community](https://github.com/dotansimha/graphql-code-generator-community)
 <!--
 **shoma-mano/shoma-mano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
