@@ -1,4 +1,4 @@
-My current focus is on the Nuxt and Vue development experience.
+My current focus is on contributing oss.
 
 repositories list I have contributed to
 - [prismix](https://github.com/jamiepine/prismix)
